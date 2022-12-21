@@ -1,5 +1,4 @@
 power
 -krukas
 -in ex
--noken as
--templar
+
