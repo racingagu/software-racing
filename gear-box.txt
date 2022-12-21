@@ -1,4 +1,6 @@
 Gear-box
 -rasio
 -kopling
--perkopling fu
+
+-Perkopling jupe 6
+
