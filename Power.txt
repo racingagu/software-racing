@@ -1,4 +1,6 @@
 power
 -krukas
 -in ex
+-stroke up
+
 
